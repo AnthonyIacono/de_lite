@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "6284"
-	"mapversion" "2168"
+	"mapversion" "2170"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "2168"
+	"mapversion" "2170"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -10907,9 +10907,9 @@ world
 		{
 			"id" "35965"
 			"plane" "(879 -243 -106) (879 -171 -106) (915 -171 -106)"
-			"material" "DE_LITE/GREEN_BOX_SIDE"
+			"material" "DE_LITE/GREEN_BOX_TOP"
 			"uaxis" "[0 1 0 384] 0.0703125"
-			"vaxis" "[1 0 0 -213.332] 0.0703125"
+			"vaxis" "[1 0 0 -213.333] 0.0703125"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -10918,9 +10918,9 @@ world
 		{
 			"id" "35964"
 			"plane" "(879 -171 -142) (879 -243 -142) (915 -243 -142)"
-			"material" "DE_LITE/GREEN_BOX_SIDE"
+			"material" "DE_LITE/GREEN_BOX_TOP"
 			"uaxis" "[0 1 0 384] 0.0703125"
-			"vaxis" "[-1 0 0 213.331] 0.0703125"
+			"vaxis" "[1 0 0 -213.333] 0.0703125"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -10983,7 +10983,7 @@ world
 		{
 			"id" "35977"
 			"plane" "(915 -207 -106) (987 -207 -106) (987 -243 -106)"
-			"material" "DE_LITE/GREEN_BOX_SIDE"
+			"material" "DE_LITE/GREEN_BOX_TOP"
 			"uaxis" "[-1 0 0 725.333] 0.0703125"
 			"vaxis" "[0 1 0 384] 0.0703125"
 			"rotation" "0"
@@ -10994,9 +10994,9 @@ world
 		{
 			"id" "35976"
 			"plane" "(987 -207 -142) (915 -207 -142) (915 -243 -142)"
-			"material" "DE_LITE/GREEN_BOX_SIDE"
+			"material" "DE_LITE/GREEN_BOX_TOP"
 			"uaxis" "[-1 0 0 725.333] 0.0703125"
-			"vaxis" "[0 -1 0 -384] 0.0703125"
+			"vaxis" "[0 1 0 384] 0.0703125"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -44322,7 +44322,7 @@ world
 		{
 			"id" "29099"
 			"plane" "(-327 -931 47) (-291 -931 47) (-291 -1003 47)"
-			"material" "DE_LITE/GREEN_BOX_SIDE"
+			"material" "DE_LITE/GREEN_BOX_TOP"
 			"uaxis" "[0 -1 0 -952.889] 0.0703125"
 			"vaxis" "[-1 0 0 -42.6665] 0.0703125"
 			"rotation" "0"
@@ -44333,9 +44333,9 @@ world
 		{
 			"id" "29100"
 			"plane" "(-327 -1003 11) (-291 -1003 11) (-291 -931 11)"
-			"material" "DE_LITE/GREEN_BOX_SIDE"
-			"uaxis" "[0 1 0 952.888] 0.0703125"
-			"vaxis" "[1 0 0 42.666] 0.0703125"
+			"material" "DE_LITE/GREEN_BOX_TOP"
+			"uaxis" "[0 -1 0 -952.889] 0.0703125"
+			"vaxis" "[-1 0 0 -42.6665] 0.0703125"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -44398,9 +44398,9 @@ world
 		{
 			"id" "29105"
 			"plane" "(-327 -927 83) (-291 -927 83) (-291 -999 83)"
-			"material" "DE_LITE/GREEN_BOX_SIDE"
+			"material" "DE_LITE/GREEN_BOX_TOP"
 			"uaxis" "[0 -1 0 -896] 0.0703125"
-			"vaxis" "[-1 0 0 -42.666] 0.0703125"
+			"vaxis" "[-1 0 0 -42.6665] 0.0703125"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -44409,9 +44409,9 @@ world
 		{
 			"id" "29106"
 			"plane" "(-327 -999 47) (-291 -999 47) (-291 -927 47)"
-			"material" "DE_LITE/GREEN_BOX_SIDE"
-			"uaxis" "[0 1 0 896] 0.0703125"
-			"vaxis" "[1 0 0 42.6665] 0.0703125"
+			"material" "DE_LITE/GREEN_BOX_TOP"
+			"uaxis" "[0 -1 0 -896] 0.0703125"
+			"vaxis" "[-1 0 0 -42.6665] 0.0703125"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
