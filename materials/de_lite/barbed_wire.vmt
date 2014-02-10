@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+"$Translucent" 1
+"$baseTexture" "de_lite/barbed_wire"
+"$surfaceprop" "metal"
+"$nodecal" "1"
+"$nocull" 1
+}

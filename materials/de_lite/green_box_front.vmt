@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "de_lite/green_box_front"
+	"$bumpmap" "de_lite/green_box_front_nrm"
+	"$surfaceprop" "Metal_Box"
+}

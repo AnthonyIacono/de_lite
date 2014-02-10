@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "de_lite/metal06"
+	"$bumpmap" "de_lite/metal06_nrm"
+	"$surfaceprop" "MetalPanel"
+}

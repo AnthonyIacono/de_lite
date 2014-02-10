@@ -1,0 +1,9 @@
+LightmappedGeneric
+{
+	$basetexture	de_lite/metal_box01
+	$surfaceprop	Metal
+	$bumpmap	de_lite/metal_box01_nrm
+ 
+	$ssbump		1
+	$SSBumpMathFix	1 // seen in L4D2, modifies the amount of light received. Can be any number (0 removed the effect)
+}

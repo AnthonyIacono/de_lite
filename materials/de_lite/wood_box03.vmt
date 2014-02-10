@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "de_lite/wood_box03"
+	"$bumpmap" "de_lite/wood_box03_nrm"
+	"$surfaceprop" "Wood_Box"
+}
