@@ -1,5 +1,5 @@
 "LightmappedGeneric"
 {
 "$baseTexture" "de_lite/gray_brick"
-"$surfaceprop" "plaster"
+"$surfaceprop" "tile"
 }

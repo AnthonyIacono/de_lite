@@ -2,6 +2,6 @@
 {
 	// Original shader: BaseTimesLightmap
 	"$basetexture" "de_lite/conc_wall_056"
-	"$surfaceprop" "plaster"
+	"$surfaceprop" "tile"
 	"%keywords" "c17sewers,wasteland"
 }

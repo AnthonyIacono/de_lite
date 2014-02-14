@@ -2,7 +2,7 @@
 {
 	// Original shader: BaseTimesLightmap
 	"$basetexture" "de_lite/conc_wall_044"
-	"$surfaceprop" "plaster"
+	"$surfaceprop" "tile"
 	"$bumpmap" "de_lite/conc_wall_044_normal"
 	"%keywords" "wasteland"
 }
